@@ -7,12 +7,12 @@ import urllib.request
 
 
 """
-File: Jeng_Winnie_Lab4.py
+File: Jeng_Winnie_Lab5.py
 
 Author: Winnie Wei Jeng
-Assignment: Lab 1
+Assignment: Lab 5
 Professor: Phil Tracton
-Date: 10/20/2018
+Date: 10/25/2018
 
 This program demonstrate using multiple libraries to open up JSON file 
 that contains URLs of movie poster images and movie titles
